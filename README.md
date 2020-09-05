@@ -1,7 +1,7 @@
 # Arduino_Brightbox
 control the brightness of laptop according to the light 
 
-In 2020 Hackerthon
+In 2020 Hackerthon in school
 
 Require Arduino uno and light sensor.
 
