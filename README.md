@@ -1,7 +1,6 @@
 # Arduino_Brightbox
-Laptop Optimization Project
-control the brightness of laptop according to the light 
-
+Laptop Optimization Project  
+control the brightness of laptop according to the light  
 In 2020 Hackerthon in school
 
 Require Arduino uno and light sensor.
